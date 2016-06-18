@@ -1,26 +1,24 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# [Friends of Registry](https://www.friendsofregistry.ml) 
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+[Friends of Registry](https://www.friendsofregistry.ml) is a static page of UTP Registry support unit, it is develop to help the process in registry department. 
 
-## Getting Started
+## Official Documentation
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+To Admission:
+* Student will be able to apply the acknowledgement letter 
+* Student will be able to apply the offer letter
 
-## Bugs and Issues
+To Examination:
+* Student will be able to get the form of transcript, result slip, degree scroll, graduation audit and more. 
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+## Status
+
+Project are maintain by the members of Friends of Rgestry. Discontinued by developer. 
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Main author : [NEONEXXA](https://github.com/neonexxa)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## License
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+This program is free software and is distributed under an [MIT License](https://github.com/friendsofregistry/friendsofregistry.github.io/blob/master/LICENSE).
